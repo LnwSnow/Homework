@@ -30,6 +30,7 @@ body {
 #photo {
     width: 120px;
     height: 120px;
+    flex-shrink: 0;
     background: #bdbdbd;
     border-radius: 50%;
 }
@@ -65,14 +66,16 @@ body {
 }
 
 #left-column {
-    width: 40%;
+    width: 50%;
 }
 
 #info {
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
+    margin-right: 16px;
     font-size: 16px;
+    gap: 16px;
 }
 
 #about {
