@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(231, 238, 255);
+    background-color: rgb(201, 226, 255);
     color: #222;
 }
 
@@ -22,7 +22,7 @@ body {
     align-items: center;
     margin-bottom: 16px;
     padding: 32px;
-    background: #082c7a;
+    background: #1b3979;
     border-radius: 24px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
 }
@@ -83,7 +83,7 @@ body {
     font-size: 20px;
     margin-top: 32px;
     margin-bottom: 8px;
-    color: #082c7a;
+    color: #1b3979;
 }
 
 #left-column {
